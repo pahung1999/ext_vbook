@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "author": "Hero",
+        "description": "VBook extension của Hero"
+    },
+    "data": [
+        {
+            "name": "69shuba_tw",
+            "author": "Hero",
+            "path": "https://raw.githubusercontent.com/pahung1999/ext_vbook/main/69shuba_tw/plugin.zip",
+            "version": 3,
+            "source": "https://69shuba.tw",
+            "icon": "https://raw.githubusercontent.com/pahung1999/ext_vbook/main/69shuba_tw/icon.png",
+            "description": "Đọc truyện trên 69shuba.tw",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        }
+    ]
+}
